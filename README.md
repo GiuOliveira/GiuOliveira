@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Giulia, 
+I'm a student and I'm starting to learn about coding.
 
+- I'm currently learning web design, c++ and how to use unreal engine with blueprint.
+- My pronouns are she/her.
 <!--
 **GiuOliveira/GiuOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
