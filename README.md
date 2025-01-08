@@ -1,5 +1,5 @@
 ### Hi there, my name is Giulia, 
-I'm a student and I'm starting to learn about coding.
+I'm a student starting to learn about coding.
 
 - I'm currently learning web design, c++ and how to use unreal engine with blueprint.
 - My pronouns are she/her.
